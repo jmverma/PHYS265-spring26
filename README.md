@@ -62,19 +62,6 @@ Conversion between a notebook (.ipynb) file to a spyder (.py) file:
 There are also ways in spyder to automatically keep your spyder python file synchronized
 to a notebook.
 
-## Codes for the final project:
-
-Here are some places to find Open Source codes in Physics and Astronomy
-
-1. Astrophysics Source Code Library (ASCL) :  https://ascl.net
-
-2. Journal for Open Source Software (JOSS):  https://joss.theoj.org/
-
-3. Zenodo : https://zenodo.org/
-
-more details in [code_project.md](code_project.md)
-
-
 ## Software Carpentry
 
 Also some self-guided and OS agnostic lessons on:
